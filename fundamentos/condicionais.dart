@@ -1,6 +1,6 @@
 void main(){
 
-  double nota = 8.0;
+  double nota = 7.0;
 
   print("Sua nota é : $nota");
 
